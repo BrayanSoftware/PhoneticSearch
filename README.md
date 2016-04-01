@@ -1,5 +1,4 @@
-# PhoneticSearch
-Phonetic Search: Challenge From A Recruiter and My Solutions. 
+Phonetic Search: An exercise.
 
 The Task
 
