@@ -1,18 +1,13 @@
-Phonetic Search: An exercise.
-
-The Task
 
 Phonetic Search
 
-Your program must read a list of surnames from standard input (i.e. the console or terminal —
+This program reads a list of surnames from standard input, one per line. The command-line arguments to the 
 
-see http://en.wikipedia.org/wiki/Standard_streams), one per line. The command-line arguments to your 
-
-program will be one or more surnames. For each of those surnames you must print out all of the names in the 
+program will be one or more surnames. For each of those surnames the programme prints out all of the names in the 
 
 input list that match those on the command-line. If the command-line arguments were "Smith" and "Jones", 
 
-and each matched three names in the input data, then you should print out (with the appropriate punctuation 
+and each matched three names in the input data, then programme prints out (with the appropriate punctuation 
 
 as shown):
 
@@ -78,7 +73,7 @@ Saunas
 
 Van Damme
 
-Running your program from the command-line like this:
+Running the  program from the command-line like this:
 
 MyProgram Jones Winton < surnames.txt
 
