@@ -75,9 +75,9 @@ Van Damme
 
 Running the  program from the command-line like this:
 
-MyProgram Jones Winton < surnames.txt
+Program Jones Winton < surnames.txt
 
-Should print out:
+prints out:
 
 Jones: Jonas, Johns, Saunas
 
