@@ -1,5 +1,5 @@
 # PhoneticSearch
-Phonetic Search: Challenge From A Recruiter 
+Phonetic Search: Challenge From A Recruiter and My Solutions. 
 
 The Task
 
